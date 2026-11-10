@@ -32,7 +32,7 @@
             android:exported="true"
             android:launchMode="singleTask"
             android:stateNotNeeded="true"
-            android:resumeWhilePausedInPip="false"
+            
             android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenSize|uiMode">
 
             <!-- This is what makes it a selectable Home app -->
